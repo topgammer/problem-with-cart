@@ -1,0 +1,12 @@
+.main-cart img{
+    height: 50px;
+}
+.name{
+    display: inline-block;
+    margin-right: 20px;
+   
+}
+
+.send-email{
+    background-color: violet;
+}
